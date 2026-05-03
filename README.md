@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 
 <html lang="en">
 <head>
@@ -626,7 +626,7 @@
     <a class="btn-primary" href="#products">Shop the Collection</a>
   </div>
   <div class="hero-image">
-    <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80&fit=crop" alt="Minimal clothing hero" loading="eager"/>
+    <img src="https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=1200&q=80&fit=crop" alt="Minimal clothing hero" loading="eager"/>
   </div>
 </section>
 
